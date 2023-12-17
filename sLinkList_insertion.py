@@ -19,7 +19,7 @@ class SLinkList:
         self.head=node
 
     def return_head(self):
-        return self.head 
+        return self.head  
 
 if __name__ == '__main__':
         j=SLinkList("Mon")
