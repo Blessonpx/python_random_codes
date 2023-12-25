@@ -35,6 +35,7 @@ class DLink_List:
         while(cur_node.get_next()!=None):
             print(cur_node.get_data())
             cur_node=cur_node.get_next()
+    
 
 if __name__=='__main__':
     x=DLink_List()
